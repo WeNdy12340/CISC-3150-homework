@@ -1,0 +1,32 @@
+--------------------Configuration: <Default>--------------------
+Please enter the x coordinate for the first circle and hit enter
+4
+Please enter the y coordinate for the first circle and hit enter
+2
+Please enter the radius for the first circle and hit enter
+3
+Please enter the x coordinate for the Second circle and hit enter
+5
+Please enter the y coordinate for the Second circle and hit enter
+2
+Please enter the radius for the second circle and hit enter
+2
+The two circle are completely within one another
+
+Process completed.
+--------------------Configuration: <Default>--------------------
+Please enter the x coordinate for the first circle and hit enter
+3
+Please enter the y coordinate for the first circle and hit enter
+5
+Please enter the radius for the first circle and hit enter
+3
+Please enter the x coordinate for the Second circle and hit enter
+-7
+Please enter the y coordinate for the Second circle and hit enter
+5
+Please enter the radius for the second circle and hit enter
+7
+The two circle are touching each other
+
+Process completed.

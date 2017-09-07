@@ -1,0 +1,58 @@
+--------------------Configuration: <Default>--------------------
+Please enter the x coordinate for point number A and hit enter
+3
+Please enter the y coordinate for point number A and hit enter
+5
+Please enter the x coordinate for point number B and hit enter
+6
+Please enter the y coordinate for point number B and hit enter
+3
+Please enter the x coordinate for point number C and hit enter
+6
+Please enter the y coordinate for point number C and hit enter
+6
+The length for side A to B is 3.605551275463989
+The length for side A to C is 3.1622776601683795
+The length for side B to C is 3.0
+This triangle is true
+
+Process completed.
+--------------------Configuration: <Default>--------------------
+Please enter the x coordinate for point number A and hit enter
+5
+Please enter the y coordinate for point number A and hit enter
+2
+Please enter the x coordinate for point number B and hit enter
+1
+Please enter the y coordinate for point number B and hit enter
+0
+Please enter the x coordinate for point number C and hit enter
+4
+Please enter the y coordinate for point number C and hit enter
+5
+The length for side A to B is 4.47213595499958
+The length for side A to C is 3.1622776601683795
+The length for side B to C is 5.830951894845301
+This triangle is true
+
+Process completed.
+--------------------Configuration: <Default>--------------------
+Please enter the x coordinate for point number A and hit enter
+-9
+Please enter the y coordinate for point number A and hit enter
+1
+Please enter the x coordinate for point number B and hit enter
+-9
+Please enter the y coordinate for point number B and hit enter
+1
+Please enter the x coordinate for point number C and hit enter
+4
+Please enter the y coordinate for point number C and hit enter
+5
+The length for side A to B is 0.0
+The length for side A to C is 13.601470508735444
+The length for side B to C is 13.601470508735444
+This triangle is false
+
+Process completed.
+
