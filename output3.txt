@@ -1,8 +1,0 @@
-Please enter a word or line: 
-this is a test
-This string is not a palindrome.
-
-Please enter a word or line: 
-this is a txt a si siht
-This string is a palindrome.
-
