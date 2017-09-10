@@ -1,0 +1,6 @@
+Please enter a line: 
+I never get enough sleep, break, and fun.
+I never get enough sleep
+ break
+ and fun.
+
