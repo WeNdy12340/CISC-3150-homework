@@ -1,7 +1,0 @@
-How tall of a pyramid do you want to display on the screen?
-     1
-    121
-   12321
-  1234321
- 123454321
-12345654321
