@@ -1,0 +1,16 @@
+Please enter the number of Queens you want to place on the board and hit enter: 
+4
+
+
+__Q_
+Q___
+___Q
+_Q__
+
+_Q__
+___Q
+Q___
+__Q_
+
+There are 2 solutions found.
+
