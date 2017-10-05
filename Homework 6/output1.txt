@@ -1,0 +1,4 @@
+In Parent Class
+Protected variable testing equal to : 1
+In Child Class
+Protected variable testing equal to : 5

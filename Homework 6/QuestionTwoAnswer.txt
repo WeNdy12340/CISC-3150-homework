@@ -1,0 +1,21 @@
+Wendy Mei
+CISC 3150
+Hw 6 Question 2
+
+1a.This will called the public String call(int k) method that is in the Dog class. This is a overloading method. This will print Woof, woof, woof!
+
+1b.This will call the toString Method in the cat class. It will print I'm a cat, go away!
+
+1c.This is calling the call() method in the pet class however, because v is an object and pet class do not have a toString method, this will return an error.
+
+1d.This will return a hash code.
+
+1e.This is a calling the overridding method in the dog class and it will print woof!
+
+1f.This is calling the String toString(String b) method in the cat class. This will print Come here, kitty? ... Don't waste my time.
+
+1g. This suppose to call the call method in the parent class pet, however, since the pet class does not have a method with the signature call(int ...). Then this should return an error.
+
+1h. This called the feet method in the pet class (parent class). Therefore, it will print out four.
+
+1i. This will return an error because pet class(parent class) does not have the dog class call(int k) method. This will be compile time error.
