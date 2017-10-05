@@ -1,0 +1,7 @@
+Please enter the radius of the circle:
+1
+The ratio of the area of the top right quadrant of the circle to the area of the square is equal to: 0.7853981633974483
+3141627223 fall inside the circle
+858372777 fall outside the circle
+The ratio of the total number fall within the cicle out of the 4,000,000,000 is equal to: 0.78540680575
+PI = 3.141627223
