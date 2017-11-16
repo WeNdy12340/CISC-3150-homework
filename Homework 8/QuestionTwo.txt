@@ -1,0 +1,4 @@
+why the program stopped running when we used Thread.sleep()?
+
+
+The program stopped running when we used Thread.sleep() can be because we may have call the run method directly instead of wrapping it inside a Thread.

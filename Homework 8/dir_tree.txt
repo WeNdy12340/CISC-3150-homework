@@ -1,0 +1,96 @@
+/home/wendy/Desktop
+-----project4.tar
+-----tree
+-----project6.tar
+-----putty.exe
+-----Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe
+-----Dev-C++.lnk
+-----Blah.java
+-----Acct 4201 Note
+-----Directory: Untitled Folder
+----------user.lst
+----------pass.lst
+-----seeds.zip
+-----pwd.lst
+-----number.txt
+-----dir_tree.txt
+-----Directory: project6
+----------plan-out.txt
+----------map.inc
+----------.player
+----------map-out.txt
+----------world6.cfg
+----------make-plan
+----------roomba.inc
+----------map.bak~
+----------map.txt
+----------build
+----------map.bak
+----------world6.cfg~
+----------sick.inc
+----------make-plan.cc
+----------Directory: bitmaps
+----------plan.txt
+----------world6.world
+-----Directory: CISC3150
+----------Directory: Homework 3
+----------Directory: Wendy Mei Homework 6
+----------Directory: Homework 7
+----------Directory: Homework 6 continue
+----------Directory: Homework 5
+----------Directory: Homework 2
+----------Directory: Homework 4
+----------Directory: Homework8
+----------Wendy Mei Homework 6.zip
+----------output4.txt
+----------Directory: 9.14.17
+----------Directory: 9.7.17
+-----test1.c
+-----Blah.class
+-----QuestionOne.java
+-----QuestionFour.java
+-----Directory: Homework 8
+-----QuestionOne.class
+-----project5.tar
+-----use.lst
+-----Directory: project5
+----------map.inc
+----------follow-plan
+----------world2.world
+----------.player
+----------world51.cfg
+----------world5.world
+----------world51.world
+----------roomba.inc
+----------world5.cfg
+----------follow-plan.cc
+----------build
+----------map.bak
+----------sick.inc
+----------Directory: bitmaps
+----------plan.txt
+-----Directory: project4
+----------map.inc
+----------world41.cfg
+----------real-local.cc
+----------.player
+----------world42.cfg
+----------roomba.inc
+----------local-roomba.cc~
+----------real-local
+----------build
+----------local-roomba.cc
+----------world4.world
+----------sick.inc
+----------Directory: bitmaps
+-----Directory: CISC3320
+----------os.cpp
+----------PCB.cpp
+----------MemMan.cpp
+----------a.out
+----------MemMan.h
+----------PCB.h
+----------os.c
+----------sos.o
+-----QuestionFour.class
+-----output4.txt
