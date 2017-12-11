@@ -1,0 +1,7 @@
+public PluginOne()
+public PluginTwo()
+Do you want to execute Plugin One or Plugin Two? Please enter 1 to execute Plugin One or 2 to execute Plugin Two
+1
+plugin one says hello
+plugin one says bye
+
